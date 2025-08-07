@@ -245,7 +245,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 - 🐛 **Bug Reports**: [Open an Issue](https://github.com/myexistences/DiscordServerClonner/issues)
 - 💡 **Feature Requests**: [Discussion Board](https://github.com/myexistences/DiscordServerClonner/discussions)
 - 📧 **Direct Contact**: [Email](mailto:your.email@example.com)
-- 💬 **Community**: [Discord Server](https://discord.gg/your-server)
+- 💬 **Community**: [Discord Server](https://discord.gg/K8CZkkCDr3)
 
 ---
 
