@@ -266,7 +266,6 @@ If this project helped you, please consider:
 - ⭐ **Starring** this repository
 - 🍴 **Forking** for your own modifications
 - 📢 **Sharing** with the community
-- ☕ **Buying me a coffee** (if donation link available)
 
 ---
 
