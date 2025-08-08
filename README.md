@@ -1,4 +1,4 @@
-# 🔁 Discord Server Clonner — Advanced Server Cloner & Asset Backup Utility
+# Discord Server Clonner – Clone & Backup Discord Servers
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=myexistences&repo=DiscordServerClonner&color=blueviolet&style=flat&label=Views)](https://github.com/myexistences/DiscordServerClonner)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
